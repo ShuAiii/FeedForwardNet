@@ -1,2 +1,1 @@
-# ConnectionOnGoing# FeedForwardNet
 # FeedForwardNet
